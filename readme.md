@@ -4,3 +4,4 @@ Toto je cvičný repozitář pro Git tutorial.</br>
 Tutorial byl vytvořen podle https://www.w3schools.com/git.
 
 UPDATED WITH GITHUB.COM - :-)
+JDE TO, ZE?
